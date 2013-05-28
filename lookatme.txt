@@ -1,4 +1,4 @@
 
-test worf master
+test worf newBranch
 tesf word newBranch
 change in newBranch again
