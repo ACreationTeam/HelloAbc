@@ -1,1 +1,2 @@
 test word
+test git commit -m "i am a content" -a
