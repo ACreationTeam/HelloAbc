@@ -6,3 +6,5 @@ i am back,
 
 i can edit the file on the github.com website!
 edit on the branch of newBranch
+
+git bash
